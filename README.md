@@ -5,10 +5,17 @@
 ---
 
 
-
+<br/>
+<br/>
+<br/>
+<br/>
 ### I'm Maria, and I'm a QA Engineer with over 2 years of experience in game, frontend, and backend testing.
 
 I love experimenting and trying new tools in my work, and my goal for now is to become a real full-stack autotester. So lots of Pythoning for this summer (and not only summer probably 😄).
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
@@ -39,9 +46,10 @@ I love experimenting and trying new tools in my work, and my goal for now is to 
 > <code><img height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png"></code>
 <code><img height="40" width="40" src="https://w7.pngwing.com/pngs/79/202/png-transparent-computer-icons-computer-terminal-cmd-exe-command-terminal-miscellaneous-angle-rectangle-thumbnail.png"></code>
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Contact me:
 I'm mostly on Telegram, so please don't hesitate to [write me there ✨](https://t.me/maria_nemo "write me there")
