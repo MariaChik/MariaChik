@@ -5,11 +5,9 @@
 ![qa](https://github.com/MariaChik/MariaChik/assets/131902195/780486b4-c5ed-407d-8a22-48224f2cdcbe)
 
 <br/>
-<br/>
 
 I love experimenting and trying new tools in my work, and my goal for now is to become a real full-stack autotester. So lots of Pythoning for this summer (and not only summer probably 😄).
 
-<br/>
 <br/>
 
 #### So far, I've worked with 
