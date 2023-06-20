@@ -1,4 +1,4 @@
-## Hi everyone! I'm Maria, a QA Engineer with 2 years of experience in game, frontend, and backend testing.
+### Hi ! I'm Maria, a QA Engineer with 2 years of experience in game, frontend, and backend testing.
 
 ![qa](https://github.com/MariaChik/MariaChik/assets/131902195/780486b4-c5ed-407d-8a22-48224f2cdcbe)
 
