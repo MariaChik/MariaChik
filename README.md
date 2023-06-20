@@ -8,8 +8,6 @@
 
 I love experimenting and trying new tools in my work, and my goal for now is to become a real full-stack autotester. So lots of Pythoning for this summer (and not only summer probably 😄).
 
-<br/>
-
 #### So far, I've worked with 
 > <code><img height="40" width="40" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png"></code>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/soapui_93772.png"></code>
