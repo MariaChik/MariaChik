@@ -1,11 +1,9 @@
-## Hi everyone! Allow me to introduce myself:
+## Hi everyone! I'm Maria, and I'm a QA Engineer with over 2 years of experience in game, frontend, and backend testing.
 
 ![qa](https://github.com/MariaChik/MariaChik/assets/131902195/780486b4-c5ed-407d-8a22-48224f2cdcbe)
 
 <br/>
 <br/>
-
-### I'm Maria, and I'm a QA Engineer with over 2 years of experience in game, frontend, and backend testing.
 
 I love experimenting and trying new tools in my work, and my goal for now is to become a real full-stack autotester. So lots of Pythoning for this summer (and not only summer probably 😄).
 
