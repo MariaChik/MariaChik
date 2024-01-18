@@ -1,4 +1,4 @@
-### Hi everyone! I'm Maria, a QA Engineer with 2 years of experience in game, frontend, and backend testing.
+### Hi everyone! I'm Maria, a QA Engineer with over 3 years of experience in frontend, backend, and mobile testing.
 
 <br/>
 
@@ -6,7 +6,7 @@
 
 <br/>
 
-I love experimenting and trying new tools in my work, and my goal for now is to become a real full-stack autotester. So lots of Pythoning for this summer (and not only summer probably 😄).
+I love to experiment and try new tools in my work, and my goal for now is to become a real full-stack autotester.
 
 #### So far, I've worked with 
 > <code><img height="40" width="40" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png"></code>
@@ -40,6 +40,6 @@ I love experimenting and trying new tools in my work, and my goal for now is to 
 <br/>
 
 ### Contact me:
-I'm mostly on Telegram, so please don't hesitate to [write me there ✨](https://t.me/maria_nemo "write me there")
+I'm mostly on Telegram, so please don't hesitate to [write me there ✨](https://t.me/mariaqaeng "write me there")
 <br/>
 Here's my [personal website](https://mariachik.github.io/index%20gb.html "personal website")
